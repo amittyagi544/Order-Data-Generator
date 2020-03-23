@@ -1,0 +1,18 @@
+{
+    "merchantOrderNumber": "QA_Order_",
+    "amount" : 1,
+    "currency": 1,
+    "merchantCustomerId" : "080712",
+    "merchantCustomerPhone": 8792372,
+    "merchantCustomerEmail": "abc@gmail.com",
+    "successURL": "http://www.google.com" ,
+    "webhookUrl": "http://www.facebook.com",
+    "failureUrl" : "http://www.google.com",
+    "shouldSaveCard": 1,
+    "cvv": 374,
+    "merchantCustomerMeta" : "dwdwd",
+    "instrumentToken" : "6edc6047-d604-46ff-8d2a-099791f9b116",
+    "paymentInstrument" : "CARD",
+    "paymentInstrumentId": 1,
+    "checkoutType" : "STANDARD"
+}
